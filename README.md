@@ -6,22 +6,27 @@
 <img src="https://github.com/RmGarden/RaquelMartins/blob/main/assests/rm_agit1.png" alt="RmAvatar" width="200"/> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&duration=2000&pause=500&color=16BA1BE1&vCenter=true&repeat=false&width=435&height=200&lines=Hello%2C;I'm+Raquel+Martins;Welcome+to+my+garden%F0%9F%8D%80;Fell+free+to+explore" alt="Typing SVG" /></a>
 
  <img src="https://github.com/RmGarden/RaquelMartins/blob/main/assests/line.png" alt="line" width="800" height="15"/>
- <p>🌿 About me</p>
- <p>
-# I’m a passionate back-end developer with a cybersecurity edge.  <br>
-# Skilled in building secure, scalable apps using Python, Django, Java, C, and SQL. <br> 
-# Love debugging and problem-solving. <br> 
-# Trained in ethical hacking, red teaming, and vulnerability assessment. <br> 
-# Always learning and exploring new tools & frameworks!<br>
- </p>
+ <p align="center">
+  <br><br><b>Back-End Developer</b> | <b>Debugging & QA Enthusiast</b><br>
+  📍 Portugal &nbsp;&nbsp; <br><br>💻 Remote-Friendly &nbsp;|&nbsp; 🌍 Open to international work <br><br><br>
+   <img src="https://github.com/RmGarden/RaquelMartins/blob/main/assests/line.png" alt="line" width="800" height="15"/>
+</p>
  
+ <h3>🌿 About me</h3>
+ <p>
+ I’m a passionate full-stack developer with a cybersecurity edge.  <br><br>
+ Skilled in building secure and scalable apps. <br><br> 
+ Love debugging and problem-solving. <br><br> 
+ Trained in ethical hacking, red teaming, and vulnerability assessment. <br><br> 
+ Always learning and exploring new tools & frameworks!<br><br>
+ </p>
+<img src="https://github.com/RmGarden/RaquelMartins/blob/main/assests/line.png" alt="line" width="800" height="15"/><br><br> 
 <p>🛠 Languages</p>
 <p>
   
 </p>
 
-<p>🛠️ Skills
-
+<p>
 **Languages**  
 <img src="https://img.shields.io/badge/Python-3776AB?color=brightgreen&style=plastic&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?color=brightgreen&style=plastic&logo=java&logoColor=white"/>
